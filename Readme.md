@@ -1,4 +1,5 @@
 # Swift 4 CoreML
+![alt text](https://github.com/randalb1991/CarsML/blob/master/CoreML_capture.png)
 
 Este proyecto pretende inferir el precio de venta de un vehiculo de segunda mano usando un modelo generado a partir de 1000 datos de ventas anteriores.
 
