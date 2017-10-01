@@ -34,7 +34,7 @@ Gracias a las librerías pandas, scipy y scikit-learn podremos generar un modelo
 Posteriormente, con la ayuda de coremltools(oficial de Apple) optimizaremos y adaptaremos este modelo para Swift4, el cuál será finalmente importado en el proyecto
 
 
-## 1.1 Usaremos un virtualenv en el cual instalaremos las librerías necesarias para la generacion del modelo de datos:
+## 1.1 Usaremos un virtualenv en el cual instalaremos las librerías necesarias para la generacion del modelo de datos:
 
 ### Creamos el VirtualEnv
 virtualenv env-machine-learning
