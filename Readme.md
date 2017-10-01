@@ -24,7 +24,7 @@ El valor estimado de los vehiculos dependerá de 4 parametros que podrán tomar 
 	-	2: Buen estado
 	-	3: Estado excelente
 
-Precio:
+Precio: Será el dato inferido por la applicación
 
 
 # 1. Generación del modelo de datos con Python 2.7.
